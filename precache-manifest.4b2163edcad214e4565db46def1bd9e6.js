@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/context_api_address_book/static/js/runtime~main.5d1556cd.js"
   },
   {
-    "revision": "a18b20fc611c3195d233",
-    "url": "/context_api_address_book/static/js/main.a18b20fc.chunk.js"
+    "revision": "987d02ecf690cb5c2c91",
+    "url": "/context_api_address_book/static/js/main.987d02ec.chunk.js"
   },
   {
     "revision": "ea99d0dfec1ebc1de3b4",
     "url": "/context_api_address_book/static/js/1.ea99d0df.chunk.js"
   },
   {
-    "revision": "a18b20fc611c3195d233",
+    "revision": "987d02ecf690cb5c2c91",
     "url": "/context_api_address_book/static/css/main.09e997af.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/context_api_address_book/static/css/1.22f844a7.chunk.css"
   },
   {
-    "revision": "5078ba2556c477eeecf1a3c1ded5d433",
+    "revision": "64b24805e6f1718aa10315bd8b6b0590",
     "url": "/context_api_address_book/index.html"
   }
 ];
