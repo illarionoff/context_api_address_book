@@ -1,0 +1,15 @@
+{
+  "main.css": "/context_api_address_book/static/css/main.09e997af.chunk.css",
+  "main.js": "/context_api_address_book/static/js/main.a18b20fc.chunk.js",
+  "main.js.map": "/context_api_address_book/static/js/main.a18b20fc.chunk.js.map",
+  "static/css/1.22f844a7.chunk.css": "/context_api_address_book/static/css/1.22f844a7.chunk.css",
+  "static/js/1.ea99d0df.chunk.js": "/context_api_address_book/static/js/1.ea99d0df.chunk.js",
+  "static/js/1.ea99d0df.chunk.js.map": "/context_api_address_book/static/js/1.ea99d0df.chunk.js.map",
+  "runtime~main.js": "/context_api_address_book/static/js/runtime~main.5d1556cd.js",
+  "runtime~main.js.map": "/context_api_address_book/static/js/runtime~main.5d1556cd.js.map",
+  "static/css/1.22f844a7.chunk.css.map": "/context_api_address_book/static/css/1.22f844a7.chunk.css.map",
+  "static/css/main.09e997af.chunk.css.map": "/context_api_address_book/static/css/main.09e997af.chunk.css.map",
+  "index.html": "/context_api_address_book/index.html",
+  "precache-manifest.9dd7c22dfd015c7ae69b8f67650d4aad.js": "/context_api_address_book/precache-manifest.9dd7c22dfd015c7ae69b8f67650d4aad.js",
+  "service-worker.js": "/context_api_address_book/service-worker.js"
+}
